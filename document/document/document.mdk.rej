@@ -1,0 +1,28 @@
+diff a/document/document/document.mdk b/document/document/document.mdk	(rejected hunks)
+@@ -0,0 +1,26 @@
++Title         : 既然选择选择远方
++Author        : 徐显鸿
++Logo          : True
++
++[TITLE]
++
++# 感慨 
++
++人生就是这样，你永远不知道下一秒回发生什么
++之前一直在研究怎么通过hdfs+hive来完成数据平台的搭建，但是昨天Terance定的方案是通过lambada+redshift来实现数据获取+数据仓库
++这两个组件不熟悉，资料较少不说，之前的积累要抛弃的感觉
++
++but
++
++不破不立，勇敢的接收改变吧
++认真研究下，优秀的人需要的是快速的学习能力，踏实的研究能力
++
++# 计划
++* 通过研究官方的文档，成功案例，熟悉这两个组件，今明两天先熟悉lambada.
++* 我们在做一个产品，只要是能够又快又好的实现功能就是好的. 
++* 大家都在用云来部署产品，这是大趋势，敞开胸怀，迎接新技术，拥抱改变，做好了，对自己的成长很有好处的.
++* 如果有空余时间，可以研究下自己喜欢的事情
++
++Enjoy!
++
++[reference manual]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html  "Madoko reference manual"
